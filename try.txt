@@ -1,0 +1,48 @@
+class Hello
+
+{
+
+
+
+public static void main(String[] myString)
+
+	{
+
+	int a=10;
+	int b=20;
+	add (int a,int b);				
+system.out.println(add (a,19));
+
+	
+	/*	System.out.println("World!!!!");
+
+
+	System.out.print(myString[0]+" ");
+	System.out.println(myString[1]);
+	System.out.println(myString[2]);
+	System.out.println(myString[3]);
+	System.out.println(myString[4]);
+
+
+
+	int a=10;
+	int a1 = 30;
+	String s = "Hello";
+	boolean b = true;
+	byte bt = 7;
+	long l = 234344;
+	float f = 344;
+	char c = 'H';
+	
+	System.out.println(a);
+
+	add(34, a1);
+
+	}
+
+static void add(int a, int b){
+	System.out.println(a+b);
+
+}
+
+}*/

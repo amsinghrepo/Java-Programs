@@ -1,0 +1,14 @@
+String str = "abc";
+
+char c[] = {'a', 'b', 'c'};
+
+String str = new String("abc");
+
+str = "MY";
+
+//concatination
+
+str = str + " String"
+
+
+
