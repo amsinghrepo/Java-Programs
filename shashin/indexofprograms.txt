@@ -1,0 +1,35 @@
+index
+
+write a program to find the sum of positive numbers from a set of numbers which contain positive amd negetive numbers using while or do-while.
+
+Create Array with some negetive and positive numbers,
+create a do-while loop, set condition as till array does not get completed,
+find all positive numbers and do addition of these number, ingnore negetive numbers.
+
+
+
+create a student class which display name, roll number, age and markes in three subjects.write a program to find the total marks of each student and then find the topper in the class.use constructor apriopritely.
+
+create a class with variables name, roll number, age and markes in three subjects,
+do addition of total markes of each student,
+and compare them to find topper.
+
+
+ 
+write a java program to find the sum of 100 numbers.
+
+create an int array with 100 numbers;
+create sum method to find the sum of these numbers;
+
+
+write a program to input the sequences of month as num and print of the month name for num 1: jan to 12: dec and any other " not a calandar month"
+
+create a switch statement to find out the calander month based on integer 1 - 12 set default as not a calander month;
+
+
+
+write a program to create a class called student with name, roll number, and age and a function which print the name and roll number of the student whose age is more than 25 by creating three student object.
+
+create a class student;
+declare three variables name, roll number, age;
+create a fuction to print the name and roll number, set a condition if student age is more than 25;
